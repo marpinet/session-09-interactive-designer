@@ -1,0 +1,32 @@
+{
+  "name": "mariana-andrade-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Mariana Andrade, showcasing her work as a founder and creative director of Marabunta Creative Agency.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "portfolio",
+    "nextjs",
+    "typescript",
+    "creative",
+    "design"
+  ],
+  "author": "Mariana Andrade",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
+  }
+}
